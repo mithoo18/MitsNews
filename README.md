@@ -2,16 +2,9 @@
 
 ### How it looks 🧐
 
-Splash Screen                                                                                                                          Home Screen(Initial)                                                                                                                                                                                                                                      -> News Web View
--> Search
-
-### How it looks 🧐
-
-| Login Screen                                                                                                                          | Home Screen(Initial)                                                                                                                          | Add/Edit Notes(Initial)                                                                                                                            |
+| Splash Screen                                                                                                                          | Home Screen(Initial)                                                                                                                          | Web View(Initial)                                                                                                                            |
 | ------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------ |
-| <img src="https://github.com/mithoo18/MitsNews/blob/master/gitimg/1.jpg" style="zoom:25%;" /> | <img src="https://github.com/mithoo18/MitsNews/blob/master/gitimg/1.jpg" style="zoom:25%;" /> | <img src="https://github.com/mithoo18/MitsNews/blob/master/gitimg/1.jpg" style="zoom:25%;" /> |
-
-<img src="https://github.com/mithoo18/MitsNews/blob/master/gitimg/1.jpg" style="zoom:25%;" /> | <img src="https://github.com/mithoo18/MitsNews/blob/master/gitimg/1.jpg" style="zoom:25%;" /> | <img src="https://github.com/mithoo18/MitsNews/blob/master/gitimg/1.jpg" style="zoom:25%;" /> |
+| <img src="https://github.com/mithoo18/MitsNews/blob/master/gitimg/1.jpg" style="zoom:25%;" /> | <img src="https://github.com/mithoo18/MitsNews/blob/master/gitimg/1.jpg" style="zoom:25%;" /> | <img src="https://github.com/mithoo18/MitsNews/blob/master/gitimg/3.jpg" style="zoom:25%;" /> |
 
 ### Getting Started 🚀
 
