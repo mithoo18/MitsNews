@@ -5,16 +5,13 @@
 Splash Screen                                                                                                                          Home Screen(Initial)                                                                                                                                                                                                                                      -> News Web View
 -> Search
 
------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------ |
-| <img src="https://github.com/mithoo18/MitsNews/tree/master/Github%20Images/1.jpg" style="zoom:25%;" /> | <img src="https://github.com/mithoo18/MitsNews/tree/master/Github%20Images/5.jpg" style="zoom:25%;" /> | <img src="https://github.com/mithoo18/MitsNews/tree/master/Github%20Images/5.jpg" style="zoom:25%;" /> |
+### How it looks 🧐
 
-### Features 🛠️
+| Login Screen                                                                                                                          | Home Screen(Initial)                                                                                                                          | Add/Edit Notes(Initial)                                                                                                                            |
+| ------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------ |
+| <img src="https://github.com/mithoo18/MitsNews/blob/master/gitimg/1.jpg" style="zoom:25%;" /> | <img src="https://github.com/mithoo18/MitsNews/blob/master/gitimg/1.jpg" style="zoom:25%;" /> | <img src="https://github.com/mithoo18/MitsNews/blob/master/gitimg/1.jpg" style="zoom:25%;" /> |
 
-
-You can install the latest apk, [Click Here](https://github.com/Anshul1507/Internshala_task/releases/download/v1.0/app-debug.apk) <p> 
-
-
----
+<img src="https://github.com/mithoo18/MitsNews/blob/master/gitimg/1.jpg" style="zoom:25%;" /> | <img src="https://github.com/mithoo18/MitsNews/blob/master/gitimg/1.jpg" style="zoom:25%;" /> | <img src="https://github.com/mithoo18/MitsNews/blob/master/gitimg/1.jpg" style="zoom:25%;" /> |
 
 ### Getting Started 🚀
 
