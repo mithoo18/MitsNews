@@ -7,7 +7,7 @@
 $ git clone https://github.com/mithoo18/MitsNews
 
 # Go into the repository
-$ cd Internshala_task
+$ cd MitsNews
 
 # Remove current origin repository
 $ git remote remove origin
