@@ -15,6 +15,14 @@ $ git remote remove origin
 
 ---
 
+### About Application
+
+- Technology Used :-Android Studio,Material Design,Firebase,Jetpack,Rest(Retrofit),API,Web View
+
+- Feature :- Scroll News,Search,24X7 Working,Full News Web View,Awesome UI& UX
+
+- Screen:- Splash Screen,Main Screen,Recycler Views,
+
 ### How it looks 
 
 | Splash Screen                                                                                                                          | Home Screen(Initial)                                                                                                                          | Web View(Initial)                                                                                                                            |
